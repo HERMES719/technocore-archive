@@ -1,0 +1,13 @@
+﻿{
+  "source": "https://x.com/flop_labs/status/2113082272756941273",
+  "captured_at": "2026-10-25T14:23:00Z",
+  "tweet": {
+    "id": "2113082272756941273",
+    "author": "@flop_labs",
+    "text": "Most compute futures being proposed are cash-settled against a survey of rental quotes, with no way to take delivery. 
+A contract written on Flop Network can do both. Settle in cash against the price agents actually paid for verified work, or hold to expiry and get the compute. 
+The unit is measured work on whatever card runs it, which matters a lot for a contract expiring in 2028 when the H100 is two generations old.",
+    "posted_at": "3:37 AM · Oct 22, 2026"
+  },
+  "note": "Tweet officiel @flop_labs - archive pour suivi projet Technocore"
+}

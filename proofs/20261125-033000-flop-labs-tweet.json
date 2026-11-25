@@ -1,0 +1,33 @@
+{
+  "source_url": "https://x.com/flop_labs/status/2125431785266073740",
+  "tweet_id": "2125431785266073740",
+  "author": "@flop_labs",
+  "created_at_utc": "2026-11-25T03:30:00.877Z",
+  "created_at_method": "snowflake (id >> 22) + 1288834974657",
+  "text": "Flop Network testnet, day 2.
+
+Up
+- Six founding validators finalize about one block per second
+- Public endpoint and bootnodes are up
+- Validator registration is open for the first 50 seats. Target after that: 25% daily growth
+- Testnet docs and validator prep kit: http://docs.flop.network
+- Devnet stays up. Keep what you run there online
+Down
+- FLOPScan is unreliable while we fix it. If it looks stuck, use the public endpoint
+Next
+- Going through roughly 68 non registration issues in network repo
+- Testing miner onboarding on a small miner, miner would include models onboarding too
+- opening pr to have flop testnet in polkadot wallets externally
+- Signed validator kit and testnet miner pack. New validators and miners join after that
+- Testnet faucet, not live yet
+- Routing changes
+- Voucher earning, then trading
+
+Nothing is scored yet. Validators have a two-week grace period. Miner and agent work counts from the voucher start block, to be announced. Nothing carries over from Devnet. Test $ FLOP has no value.
+Last edited 4:30 AM · Nov 25, 2026
+31.7K Views",
+  "text_note": "copié depuis x.com par moi",
+  "views": "31.7K",
+  "archived_by": "copie manuelle",
+  "archived_at_utc": "2026-11-25T19:27:57Z"
+}
